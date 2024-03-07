@@ -10,5 +10,5 @@ Interesting Task Ideas
 
 🔨 Tools:
 
-Python( Pandas and numpy) for data manipulation
-Tableau Dashboard for Data Visualization 📊
+* Python( Pandas and numpy) for data manipulation
+* Tableau Dashboard for Data Visualization 📊
